@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @kevin-imbus
+- 👋 Hi, I’m Kevin (@kevin-imbus)
 - 👀 I’m interested in software testing, especially test automation and digital accessibility
